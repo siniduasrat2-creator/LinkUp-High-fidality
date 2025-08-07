@@ -1,2 +1,4 @@
-# LinkUp-High-fidality
-This is the second repository for my internship project of social connect app which is called LinkUp
+# LinkUp – High-Fidelity UI Design
+This repository contains the high-fidelity UI design of the LinkUp app, developed as part of my internship. 
+ Tools Used - Figma 
+ Task Design polished high-fidelity screens based on the previously completed wireframe.
